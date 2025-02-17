@@ -430,9 +430,6 @@ translations/*.qm
 # Web P
 *.webp
 
-# Portable Network Graphics
-*.png
-
 # Animated Portable Network Graphics
 *.apng
 
@@ -444,7 +441,6 @@ translations/*.qm
 *.tif
 
 # Scalable Vector Graphics
-*.svg
 *.svgz
 
 # Portable Document Format
@@ -456,9 +452,6 @@ translations/*.qm
 # BMP
 *.bmp
 *.dib
-
-# ICO
-*.ico
 
 # 3D Images
 *.3dm
@@ -1401,7 +1394,6 @@ tmtags
 *.bak
 *.cmp
 *.jpg
-*.html
 *.bsf
 
 # ignore simulation output of ModelSim
