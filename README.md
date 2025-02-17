@@ -33,16 +33,44 @@ As AI technology evolves, concerns around data ownership, misuse, and privacy gr
 - Align AI operations with ethical and legal standards.
 
 ---
+## 🛠️ Contributing to Open Data Ownership License (ODOL)
 
-## 🔧 **Contributing**
-We welcome collaboration from privacy advocates, AI researchers, legal professionals, and the broader tech community.
+We welcome collaboration from privacy advocates, AI researchers, legal professionals, and the broader tech community. To get started:
 
-- Open an issue for feedback, suggestions, or questions.
-- Submit pull requests to propose improvements.
-- Join the discussion on aligning AI data practices with privacy-first principles.
+- Review the [CONTRIBUTING.md](./CONTRIBUTING.md) document for guidelines on participation.
+- Open an issue to report bugs, propose features, or seek clarification on the license or its implementation.
+- Participate in discussions on applying AI data practices in compliance with privacy-first principles and global standards (e.g., GDPR, CCPA, ISO/IEC 27701).
+- Follow the coding standards, privacy requirements, and security protocols outlined in the documentation.
+- Submit pull requests with clear, descriptive commit messages and references to related issues when applicable.
 
-📬 **Contact:** sci.marozau@gmail.com  
+**Key Guidelines:**
+- **Compliance:** Adhere to GDPR, CCPA, PIPL, and ISO/IEC 27701 standards.
+- **Code Quality:** Maintain clean, well-documented, and efficient code.
+- **Privacy-First Approach:** Ensure that implementations prioritize user data privacy.
+
+Contributors must submit code that meets the ODOL requirements, including proper use of cosine similarity thresholds, ε-Differential Privacy protocols, and audit-friendly practices.
+
+📬 **Contact:** [sci.marozau@gmail.com](mailto:sci.marozau@gmail.com).  
 🌐 **Website:** https://www.odol-license.org/
+
+---
+
+## 📝 Issues
+
+To report bugs, request features, or discuss improvements, please visit the [Issues section](https://github.com/morozow/odol-license/issues).
+
+### Issue Categories:
+- **Bug Report:** Identify and describe functionality or security issues.
+- **Feature Request:** Suggest innovative features or enhancements.
+- **Documentation Update:** Propose changes or additions to improve clarity.
+- **Security Concern:** Report potential privacy or data security vulnerabilities.
+
+**Guidelines for Submitting Issues:**
+- Provide a clear, detailed description of the issue.
+- Include steps to reproduce bugs when applicable.
+- Attach relevant logs, code snippets, or references to research if available.
+
+Issues related to privacy protocols should reference specific standards or research papers to ensure scientific rigor and compliance with ODOL's core principles.
 
 ---
 
