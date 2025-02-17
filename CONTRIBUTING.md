@@ -39,7 +39,7 @@ We welcome various types of contributions:
    ```
 
 4. **Implement Changes**
-    - Make sure your code adheres to our [Coding Standards](#coding-standards).
+    - Make sure your code adheres to our [Coding Standards](#-coding-standards).
 
 5. **Commit Your Changes**
     - Follow the commit message guidelines below:
