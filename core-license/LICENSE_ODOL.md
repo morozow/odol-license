@@ -229,6 +229,15 @@
 - **Dataset Source Verification:** Independent experts must annually verify dataset legality and document collection
   methods.
 
+### 7. Legal Notice
+The Open Data Ownership License (ODOL) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
+
+Commercial usage of this document, its derivatives, or its concepts without the author’s permission is strictly prohibited.
+
+See details in [LICENSE_LEGAL](../LICENSE_LEGAL).
+
+---
+
 **Final Clause:**
 This license guarantees the right of individuals and organizations to own, protect, and manage their data when
 interacting with AI systems. Violations are subject to penalties defined herein and enforced via arbitration or legal
