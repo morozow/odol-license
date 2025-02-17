@@ -10,7 +10,7 @@ ODOL is a legal and technical framework designed to:
 - Ensure compliance with international privacy standards (GDPR, CCPA, PIPL, ISO/IEC 27701).
 - Foster transparent, auditable AI data practices.
 
-Please review the [ODOL License Document](./LICENSE.ODOL.md) before contributing.
+Please review the [ODOL License Document](core-license/LICENSE_ODOL) before contributing.
 
 ### 2. **Types of Contributions**
 We welcome various types of contributions:
@@ -29,7 +29,7 @@ We welcome various types of contributions:
 2. **Clone the Repository**
    ```bash
    git clone https://github.com/YOUR_USERNAME/odol-license.git
-   cd odol-license
+   cd odol-core-license
    ```
 
 3. **Create a New Branch**
@@ -115,7 +115,7 @@ We strive to maintain a professional, inclusive, and collaborative environment.
 
 **Dispute Resolution:**
 - Technical disputes are resolved through open discussion, with the final decision made by the core maintainers.
-- For legal inquiries, contact us at [sci.marozau@gmail.com](mailto:sci.marozau@gmail.com).
+- For legal inquiries, contact us at [raman@worktif.com](mailto:raman@worktif.com).
 
 ---
 

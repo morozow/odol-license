@@ -50,7 +50,7 @@ We welcome collaboration from privacy advocates, AI researchers, legal professio
 
 Contributors must submit code that meets the ODOL requirements, including proper use of cosine similarity thresholds, ε-Differential Privacy protocols, and audit-friendly practices.
 
-📬 **Contact:** [sci.marozau@gmail.com](mailto:sci.marozau@gmail.com).  
+📬 **Contact:** [raman@worktif.com](mailto:raman@worktif.com).  
 🌐 **Website:** https://www.odol-license.org/
 
 ---
@@ -76,11 +76,26 @@ Issues related to privacy protocols should reference specific standards or resea
 
 ## 🚀 **Get Started**
 1. **Read the License**:
-   - [LICENCE.ODOL](./LICENSE.ODOL)
-   - [LICENCE.ODOL.md](./LICENSE.ODOL.md)
+   - [LICENCE_ODOL](core-license/LICENSE_ODOL)
+   - [LICENCE_ODOL.md](core-license/LICENSE_ODOL.md)
 2. **Share & Implement**: Spread the word and consider adopting ODOL for your AI infrastructure.
 3. **Collaborate**: Engage with us on GitHub by sharing your insights and expertise.
 
+---
+
+## ⚖️ License Overview
+
+This repository is subject to the following license terms:
+
+- **Software Components**: Licensed under **Apache License 2.0**.
+- **Documentation, including Open Data Ownership License (ODOL)**:  
+  Licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+🔗 **Learn more**:
+- Apache 2.0: [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
+  - Code license: [LICENSE](./LICENSE)
+- CC BY-NC 4.0: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+  - Documentation license: [LICENSE_LEGAL](./LICENSE_LEGAL)
 ---
 
 **"Your Data. Your Decisions. Your Rights."** _(The guiding principle of ODOL.)_
